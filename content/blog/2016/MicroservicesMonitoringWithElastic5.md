@@ -96,3 +96,7 @@ At the time of writing with 5.2.0 the alerting (called watcher) is configured by
 
 ## Links and References
 * [Community Beats](https://www.elastic.co/guide/en/beats/libbeat/master/community-beats.html) tools
+
+----
+Author [richard.donovan@realitech.co.uk](email:richard.donovan@realitech.co.uk)  
+Contact [info@realitech.co.uk](email:info@realitech.co.uk)
