@@ -10,7 +10,8 @@ This static site is for realitech.co.uk and covers our areas of interest
 * Cloud services and cloud migration with AWS, Kubernates 
 * Containerisation with Docker 
 * Big data especially around Mongo, MapR, Hadoop and Spark 
-* Open-ledger and blockchain Etheirum 
+* Open-ledger and blockchain Etheirum
+* Salesforce expertise
 
 If you stumbled upon us and would like to say hi drop a line to 
  richard.donovan@realitech.co.uk
