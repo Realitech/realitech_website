@@ -7,9 +7,12 @@ status=draft
 
 # Micro Service Monitoring with Elastic 5
 
-* Log shipping and monitoring
-* Detailed monitoring with Beats  
+An essential part of microservice deployment, management and scaling is a good monitoring strategy. Our first tool of choice is to use Elastic Search, Logging and their Kibana dashboards.
 
+In this page we cover the setup and configuration for
+
+* Log file shipping and monitoring
+* Detailed monitoring with Beats  
 
 ## Log Shipping and Monitoring
 * Logstash and Filebeats
