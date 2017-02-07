@@ -16,8 +16,8 @@ status=draft
 
 ## Detailed monitoring with Beats
 * Uptime Monitoring with
-** Heart Beats
-** Metric Beats
+   * Heart Beats
+   * Metric Beats
 * Native integration with
   [Metrics Elasticsearch Reporter](https://github.com/elastic/elasticsearch-metrics-reporter-java)
 
