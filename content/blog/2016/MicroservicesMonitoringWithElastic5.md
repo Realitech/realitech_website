@@ -55,6 +55,9 @@ A sample heart beat monitor yaml file used by the heart beat component
     mode: any
 ```
 
+![monitoring] (./microServiceMonitoring.png "monitoring")
+
+
 ### Metrics and Service Level Agreements
 
 ### Alerting
