@@ -53,4 +53,4 @@ The opportunity for blockchain insurance is to provide the same level of instant
 
 Like other industries before music, video, taxi's and financing insurance is not immune to being disrupted by the right combinations of technologies and new business models.
 
- Blockchain offers the opportunity to the right company to re-new the insurance relationship and expand into a host of new business and geographical markets. The ability to have low cost, fast, granular insurance instantly can restore the peace of mind that insurance can provide as well as direct the fees to managing risk and payments and less for long and tedious delivery chains. The future is already here .. it is just widely recognized yet
+ Blockchain offers the opportunity to the right company to re-new the insurance relationship and expand into a host of new business and geographical markets. The ability to have low cost, fast, granular insurance instantly can restore the peace of mind that insurance can provide as well as direct the fees to managing risk and payments and less for long and tedious delivery chains. The future is already here .. it is just not widely recognized yet
