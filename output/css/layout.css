@@ -349,16 +349,16 @@ h2.subTitle {
     text-align: center;
 }
 
-h2.subTitle:after, h1.noSubtitle:after {
-    display: block;
-    height: 1px;
-    width: 100px;
-    content: '';
-    bottom: 53px;
-    position: absolute;
-    margin-left: -50px;
-    left: 50%;
-}
+/*h2.subTitle:after, h1.noSubtitle:after {*/
+    /*display: block;*/
+    /*height: 1px;*/
+    /*width: 100px;*/
+    /*content: '';*/
+    /*bottom: 53px;*/
+    /*position: absolute;*/
+    /*margin-left: -50px;*/
+    /*left: 50%;*/
+/*}*/
 
 h1.noSubtitle:after {
     bottom: -29px;

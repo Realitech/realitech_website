@@ -15,7 +15,7 @@
                             data-target=".navbar-ex1-collapse"><span class="sr-only">Toggle navigation</span> <span
                             class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/index.html"><img width="180px" src="/images/realitech_logo.png"
+                    <a class="navbar-brand" href="/index.html"><img width="150px" style="margin-top:-10px;"  src="/images/realitech_logo.png"
                                                                     alt="Realitech Logo"/></a></div>
                 <div class="collapse navbar-collapse navbar-ex1-collapse" id="scrollTarget">
                     <ul class="nav navbar-nav pull-right">
@@ -243,7 +243,7 @@
                         <div class="col-xs-9">
                             <h2>Agile Transformation Teams</h2>
 
-                            <p>Our Transformation best practice ensure that activities are linked with your goals and that constant incremental deliveries delivers results early and rduces risk</p>
+                            <p>Our Transformation best practice ensure that activities are linked with your goals and that constant incremental deliveries delivers results early and reduces risk</p>
                         </div>
                     </div>
                 </div>
@@ -255,11 +255,8 @@
                         <div class="col-xs-9">
                             <h2>Enterprise Development</h2>
 
-                            <p>Building on a strong open source partnership, Realitech brings expertise in a wide rage
-                                of
+                            <p>Building on a strong open source partnership, Realitech brings expertise in a wide rage of
                                 open source technologies</p>
-
-
                         </div>
                     </div>
                 </div>
@@ -326,7 +323,7 @@
     <div class="maskParent">
         <div class="paralaxMask"></div>
         <div class="paralaxText container">
-            <h1>From finance to non-profit, media to cloud services we face an un-precidented rate of change</h1>
+            <h1>From finance to non-profit, media to cloud services we face an unprecedented rate of change</h1>
             </blockquote>
         </div>
     </div>
@@ -342,16 +339,15 @@
 
         <div class="row">
             <div class="col-sm-4">
-                <h2>The Only Constant is Change</h2>
+                <h2>Talk Less Deliver More</h2>
 
                 <p>
-                    Realitech having been hardened from transformation and crsis recovery proejcts across some of the UK's largest enterprises and the UK Government.
-                    Realitech have been formed from a best practice for Agile tranformation and  have developed the tools and techniques to drive delivery and quality.
+                    At Realitech, we are passionate about IT solution delivery and we are using agile principles to do this quickly and efficiently.
                 </p>
 
                 <p>
                     Our focus is to deliver working solutions to our clients and we use the most appropriate tools and methods for each specific client and project.
-                    We work with a network of hand-picked affiliates to extend our delivery capability. With this network, we can provide top-class software developers, QA engineers, scrum masters, programme managers and architects.                </p>
+                </p>
             </div>
 
             <div class="col-sm-4">
@@ -365,12 +361,6 @@
 
 
             <div class="col-sm-4">
-                <h2>Microservices</h2>
-
-                <p>The enterprise bus allows for greater enterprise agility. Api gateways allows less britle
-                    department and even inter-enterprise integration building a new generation of services and
-                    sources of revenues. </p>
-
                 <h2>Enterprise Transformation</h2>
                 <p>
                     With decades of experience in successful enterprise and government the only constant is change. Realitech provide non-dogmatic solutions
@@ -425,18 +415,16 @@
                         <div class="col-lg-10 col-sm-5" style="height:85px; padding-left:80px;">
                             <div class="flexslider" id="flexCompany">
                                 <ul class="slides">
-                                    <li><img src="/images/company/company1.jpg"/></li>
-                                    <li><img src="/images/company/company2.jpg"/></li>
-                                    <li><img src="/images/company/company3.jpg"/></li>
-                                    <li><img src="/images/company/company4.jpg"/></li>
-                                    <li><img src="/images/company/company5.jpg"/></li>
-                                    <li><img src="/images/company/company6.jpg"/></li>
-                                    <li><img src="/images/company/company7.jpg"/></li>
-                                    <li><img src="/images/company/company8.jpg"/></li>
-                                    <li><img src="/images/company/company9.jpg"/></li>
-                                    <li><img src="/images/company/company10.jpg"/></li>
-                                    <li><img src="/images/company/company11.jpg"/></li>
-                                    <li><img src="/images/company/company12.jpg"/></li>
+                                    <li><img src="/images/company/company1_new.jpg"/></li>
+                                    <li><img src="/images/company/company2_new.jpg"/></li>
+                                    <li><img src="/images/company/company3_new.jpg"/></li>
+                                    <li><img src="/images/company/company4_new.jpg"/></li>
+                                    <li><img src="/images/company/company5_new.jpg"/></li>
+                                    <li><img src="/images/company/company6_new.jpg"/></li>
+                                    <li><img src="/images/company/company7_new.jpg"/></li>
+                                    <li><img src="/images/company/company8_new.jpg"/></li>
+                                    <li><img src="/images/company/company9_new.jpg"/></li>
+                                    <li><img src="/images/company/company10_new.jpg"/></li>
                                 </ul>
                             </div>
                         </div>
@@ -455,264 +443,6 @@
                 </ul>
             </nav>
         </div>
-        <#--<div class="portfolio-items isotopeWrapper clearfix imgHover row" id="3">-->
-            <#--<article class="col-sm-4 isotopeItem women">-->
-                <#--<section class="imgWrapper">-->
-                    <#--<img alt="" src="images/portfolio/vign6.jpg" class="img-responsive">-->
-                <#--</section>-->
-                <#--<div class="mediaHover">-->
-                    <#--<div class="mask"></div>-->
-                    <#--<div class="iconLinks">-->
-                        <#--<a href="portfolio-project-fullwidth-image.html" title="link" class="sizer portfolioSheet">-->
-                            <#--<i class="icon-picture iconRounded iconBig"></i>-->
-                            <#--<span>link</span>-->
-                        <#--</a>-->
-                        <#--<a href="images/portfolio/zoom6.jpg" class="image-link" title="Full width image">-->
-                            <#--<i class="icon-search iconRounded iconBig"></i>-->
-                            <#--<span>zoom</span>-->
-                        <#--</a>-->
-                    <#--</div>-->
-                <#--</div>-->
-                <#--<section class="boxContent">-->
-                    <#--<h3>Full width image</h3>-->
-
-                    <#--<p>-->
-                        <#--Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus-->
-                        <#--sollicitudin placerat. <br>-->
-                        <#--<a href="portfolio-project-fullwidth-image.html" class="moreLink portfolioSheet">&rarr; read-->
-                            <#--more</a>-->
-                    <#--</p>-->
-                <#--</section>-->
-            <#--</article>-->
-
-            <#--<article class="col-sm-4 isotopeItem cats">-->
-                <#--<section class="imgWrapper">-->
-                    <#--<img alt="" src="images/portfolio/vign1.jpg" class="img-responsive">-->
-                <#--</section>-->
-                <#--<div class="mediaHover">-->
-                    <#--<div class="mask"></div>-->
-                    <#--<div class="iconLinks">-->
-                        <#--<a href="portfolio-project-fullwidth-video.html" title="link" class="portfolioSheet sizer">-->
-                            <#--<i class="icon-videocam iconRounded iconBig"></i>-->
-                            <#--<span>link</span>-->
-                        <#--</a>-->
-                        <#--<a href="http://www.youtube.com/watch?v=aqrtF7L86NQ" class="image-iframe"-->
-                           <#--title="Video Popup">-->
-                            <#--<i class="icon-search iconRounded iconBig"></i>-->
-                            <#--<span>video</span>-->
-                        <#--</a>-->
-                    <#--</div>-->
-                <#--</div>-->
-                <#--<section class="boxContent">-->
-                    <#--<h3>Video YouTube</h3>-->
-
-                    <#--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus-->
-                        <#--sollicitudin placerat. <br>-->
-                        <#--<a href="portfolio-project-fullwidth-video.html" class="moreLink portfolioSheet">&rarr; read-->
-                            <#--more</a>-->
-                    <#--</p>-->
-                <#--</section>-->
-            <#--</article>-->
-
-            <#--<article class="col-sm-4 isotopeItem graphics">-->
-                <#--<section class="imgWrapper">-->
-                    <#--<img alt="" src="images/portfolio/vign7.jpg" class="img-responsive">-->
-                <#--</section>-->
-                <#--<div class="mediaHover">-->
-                    <#--<div class="mask"></div>-->
-                    <#--<div class="iconLinks">-->
-                        <#--<a href="portfolio-project-fullwidth-video.html" title="link" class="sizer portfolioSheet">-->
-                            <#--<i class="icon-videocam iconRounded iconBig"></i>-->
-                            <#--<span>link</span>-->
-                        <#--</a>-->
-                        <#--<a href="http://vimeo.com/ondemand/5335/75660130" class="image-iframe" title="Video Popup">-->
-                            <#--<i class="icon-search iconRounded iconBig"></i>-->
-                            <#--<span>video</span>-->
-                        <#--</a>-->
-                    <#--</div>-->
-                <#--</div>-->
-                <#--<section class="boxContent">-->
-                    <#--<h3>Video Vimeo</h3>-->
-
-                    <#--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus-->
-                        <#--sollicitudin placerat. <br>-->
-                        <#--<a href="portfolio-project-fullwidth-video.html" class="moreLink portfolioSheet">&rarr; read-->
-                            <#--more</a>-->
-                    <#--</p>-->
-                <#--</section>-->
-            <#--</article>-->
-
-            <#--&lt;#&ndash;<article class="col-sm-4 isotopeItem cats">&ndash;&gt;-->
-                <#--&lt;#&ndash;<section class="imgWrapper">&ndash;&gt;-->
-                    <#--&lt;#&ndash;<img alt="" src="images/portfolio/vign3.jpg" class="img-responsive">&ndash;&gt;-->
-                <#--&lt;#&ndash;</section>&ndash;&gt;-->
-                <#--&lt;#&ndash;<div class="mediaHover">&ndash;&gt;-->
-                    <#--&lt;#&ndash;<div class="mask"></div>&ndash;&gt;-->
-                    <#--&lt;#&ndash;<div class="iconLinks">&ndash;&gt;-->
-                        <#--&lt;#&ndash;<a href="portfolio-project-fullwidth-carousel.html" title="link"&ndash;&gt;-->
-                           <#--&lt;#&ndash;class="sizer portfolioSheet">&ndash;&gt;-->
-                            <#--&lt;#&ndash;<i class="icon-camera iconRounded iconBig"></i>&ndash;&gt;-->
-                            <#--&lt;#&ndash;<span>link</span>&ndash;&gt;-->
-                        <#--&lt;#&ndash;</a>&ndash;&gt;-->
-                        <#--&lt;#&ndash;<a href="images/portfolio/carousel-1.jpg" class="image-link" title="Zoom"&ndash;&gt;-->
-                           <#--&lt;#&ndash;data-gallery="images/portfolio/carousel-2.jpg,images/portfolio/carousel-3.jpg">&ndash;&gt;-->
-                            <#--&lt;#&ndash;<i class="icon-search iconRounded iconBig"></i>&ndash;&gt;-->
-                            <#--&lt;#&ndash;<span>gallery</span>&ndash;&gt;-->
-                        <#--&lt;#&ndash;</a>&ndash;&gt;-->
-                    <#--&lt;#&ndash;</div>&ndash;&gt;-->
-                <#--&lt;#&ndash;</div>&ndash;&gt;-->
-                <#--&lt;#&ndash;<section class="boxContent">&ndash;&gt;-->
-                    <#--&lt;#&ndash;<h3>Gallery</h3>&ndash;&gt;-->
-
-                    <#--&lt;#&ndash;<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus&ndash;&gt;-->
-                        <#--&lt;#&ndash;sollicitudin placerat. <br>&ndash;&gt;-->
-                        <#--&lt;#&ndash;<a href="portfolio-project-fullwidth-carousel.html" class="moreLink portfolioSheet">&rarr;&ndash;&gt;-->
-                            <#--&lt;#&ndash;read more</a>&ndash;&gt;-->
-                    <#--&lt;#&ndash;</p>&ndash;&gt;-->
-                <#--&lt;#&ndash;</section>&ndash;&gt;-->
-            <#--&lt;#&ndash;</article>&ndash;&gt;-->
-            <#--&lt;#&ndash;<article class="col-sm-4 isotopeItem cats">&ndash;&gt;-->
-                <#--&lt;#&ndash;<section class="imgWrapper">&ndash;&gt;-->
-                    <#--&lt;#&ndash;<img alt="" src="images/portfolio/vign2.jpg" class="img-responsive">&ndash;&gt;-->
-                <#--&lt;#&ndash;</section>&ndash;&gt;-->
-                <#--&lt;#&ndash;<div class="mediaHover">&ndash;&gt;-->
-                    <#--&lt;#&ndash;<div class="mask"></div>&ndash;&gt;-->
-                    <#--&lt;#&ndash;<div class="iconLinks">&ndash;&gt;-->
-                        <#--&lt;#&ndash;<a href="portfolio-project-fullwidth-carousel.html" title="link"&ndash;&gt;-->
-                           <#--&lt;#&ndash;class="sizer portfolioSheet"> <i class="icon-picture iconRounded iconBig"></i>&ndash;&gt;-->
-                            <#--&lt;#&ndash;<span>link</span>&ndash;&gt;-->
-                        <#--&lt;#&ndash;</a>&ndash;&gt;-->
-                        <#--&lt;#&ndash;<a href="images/portfolio/zoom2.jpg" class="image-link" title="Gallery Popup">&ndash;&gt;-->
-                            <#--&lt;#&ndash;<i class="icon-search iconRounded iconBig"></i>&ndash;&gt;-->
-                            <#--&lt;#&ndash;<span>zoom</span>&ndash;&gt;-->
-                        <#--&lt;#&ndash;</a>&ndash;&gt;-->
-                    <#--&lt;#&ndash;</div>&ndash;&gt;-->
-                <#--&lt;#&ndash;</div>&ndash;&gt;-->
-                <#--&lt;#&ndash;<section class="boxContent">&ndash;&gt;-->
-                    <#--&lt;#&ndash;<h3>Lorem ipsum dolor sit amet</h3>&ndash;&gt;-->
-
-                    <#--&lt;#&ndash;<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus&ndash;&gt;-->
-                        <#--&lt;#&ndash;sollicitudin placerat. <br>&ndash;&gt;-->
-                        <#--&lt;#&ndash;<a href="portfolio-project-fullwidth-carousel.html" class="moreLink portfolioSheet">&rarr;&ndash;&gt;-->
-                            <#--&lt;#&ndash;read more</a>&ndash;&gt;-->
-                    <#--&lt;#&ndash;</p>&ndash;&gt;-->
-                <#--&lt;#&ndash;</section>&ndash;&gt;-->
-            <#--&lt;#&ndash;</article>&ndash;&gt;-->
-
-            <#--&lt;#&ndash;<article class="col-sm-4 isotopeItem women">&ndash;&gt;-->
-                <#--&lt;#&ndash;<section class="imgWrapper">&ndash;&gt;-->
-                    <#--&lt;#&ndash;<img alt="" src="images/portfolio/vign4.jpg" class="img-responsive">&ndash;&gt;-->
-                <#--&lt;#&ndash;</section>&ndash;&gt;-->
-                <#--&lt;#&ndash;<div class="mediaHover">&ndash;&gt;-->
-                    <#--&lt;#&ndash;<div class="mask"></div>&ndash;&gt;-->
-                    <#--&lt;#&ndash;<div class="iconLinks">&ndash;&gt;-->
-                        <#--&lt;#&ndash;<a href="portfolio-project-fullwidth-image.html" title="link" class="sizer portfolioSheet">&ndash;&gt;-->
-                            <#--&lt;#&ndash;<i class="icon-picture iconRounded iconBig"></i>&ndash;&gt;-->
-                            <#--&lt;#&ndash;<span>link</span>&ndash;&gt;-->
-                        <#--&lt;#&ndash;</a>&ndash;&gt;-->
-                        <#--&lt;#&ndash;<a href="images/portfolio/zoom4.jpg" class="image-link" title="Zoom">&ndash;&gt;-->
-                            <#--&lt;#&ndash;<i class="icon-search iconRounded iconBig"></i>&ndash;&gt;-->
-                            <#--&lt;#&ndash;<span>zoom</span>&ndash;&gt;-->
-                        <#--&lt;#&ndash;</a>&ndash;&gt;-->
-                    <#--&lt;#&ndash;</div>&ndash;&gt;-->
-                <#--&lt;#&ndash;</div>&ndash;&gt;-->
-                <#--&lt;#&ndash;<section class="boxContent">&ndash;&gt;-->
-                    <#--&lt;#&ndash;<h3>Lorem ipsum dolor sit amet</h3>&ndash;&gt;-->
-
-                    <#--&lt;#&ndash;<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus&ndash;&gt;-->
-                        <#--&lt;#&ndash;sollicitudin placerat. <br>&ndash;&gt;-->
-                        <#--&lt;#&ndash;<a href="portfolio-project-fullwidth-image.html" class="moreLink portfolioSheet">&rarr; read&ndash;&gt;-->
-                            <#--&lt;#&ndash;more</a>&ndash;&gt;-->
-                    <#--&lt;#&ndash;</p>&ndash;&gt;-->
-                <#--&lt;#&ndash;</section>&ndash;&gt;-->
-            <#--&lt;#&ndash;</article>&ndash;&gt;-->
-
-
-            <#--<article class="col-sm-4 isotopeItem graphics">-->
-                <#--<section class="imgWrapper">-->
-                    <#--<img alt="" src="images/portfolio/vign8.jpg" class="img-responsive">-->
-                <#--</section>-->
-                <#--<div class="mediaHover">-->
-                    <#--<div class="mask"></div>-->
-                    <#--<div class="iconLinks">-->
-                        <#--<a href="portfolio-project-fullwidth-image.html" title="link" class="sizer portfolioSheet">-->
-                            <#--<i class="icon-picture iconRounded iconBig"></i>-->
-                            <#--<span>link</span>-->
-                        <#--</a>-->
-                        <#--<a href="images/portfolio/zoom8.jpg" class="image-link" title="Zoom">-->
-                            <#--<i class="icon-search iconRounded iconBig"></i>-->
-                            <#--<span>zoom</span>-->
-                        <#--</a>-->
-                    <#--</div>-->
-                <#--</div>-->
-                <#--<section class="boxContent">-->
-                    <#--<h3>Lorem ipsum dolor sit amet</h3>-->
-
-                    <#--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus-->
-                        <#--sollicitudin placerat.<br>-->
-                        <#--<a href="portfolio-project-fullwidth-image.html" class="moreLink portfolioSheet">&rarr; read-->
-                            <#--more</a>-->
-                    <#--</p>-->
-                <#--</section>-->
-            <#--</article>-->
-
-            <#--<article class="col-sm-4 isotopeItem women">-->
-                <#--<section class="imgWrapper">-->
-                    <#--<img alt="" src="images/portfolio/vign5.jpg" class="img-responsive">-->
-                <#--</section>-->
-                <#--<div class="mediaHover">-->
-                    <#--<div class="mask"></div>-->
-                    <#--<div class="iconLinks">-->
-                        <#--<a href="portfolio-project-fullwidth-image.html" title="link" class="sizer portfolioSheet">-->
-                            <#--<i class="icon-picture iconRounded iconBig"></i>-->
-                            <#--<span>link</span>-->
-                        <#--</a>-->
-                        <#--<a href="images/portfolio/zoom5.jpg" class="image-link" title="Zoom">-->
-                            <#--<i class="icon-search iconRounded iconBig"></i>-->
-                            <#--<span>zoom</span>-->
-                        <#--</a>-->
-                    <#--</div>-->
-                <#--</div>-->
-                <#--<section class="boxContent">-->
-                    <#--<h3>Lorem ipsum dolor sit amet</h3>-->
-
-                    <#--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus-->
-                        <#--sollicitudin placerat.<br>-->
-                        <#--<a href="portfolio-project-fullwidth-image.html" class="moreLink portfolioSheet">&rarr; read-->
-                            <#--more</a>-->
-                    <#--</p>-->
-                <#--</section>-->
-            <#--</article>-->
-
-            <#--<article class="col-sm-4 isotopeItem graphics">-->
-                <#--<section class="imgWrapper">-->
-                    <#--<img alt="" src="images/portfolio/vign9.jpg" class="img-responsive">-->
-                <#--</section>-->
-                <#--<div class="mediaHover">-->
-                    <#--<div class="mask"></div>-->
-                    <#--<div class="iconLinks">-->
-                        <#--<a href="portfolio-project-fullwidth-carousel.html" title="link"-->
-                           <#--class="sizer portfolioSheet">-->
-                            <#--<i class="icon-camera iconRounded iconBig"></i>-->
-                            <#--<span>link</span>-->
-                        <#--</a>-->
-                        <#--<a href="images/portfolio/zoom9.jpg" class="image-link" title="Zoom">-->
-                            <#--<i class="icon-search iconRounded iconBig"></i>-->
-                            <#--<span>zoom</span>-->
-                        <#--</a></div>-->
-                <#--</div>-->
-                <#--<section class="boxContent">-->
-                    <#--<h3>Lorem ipsum dolor sit amet</h3>-->
-
-                    <#--<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate nunc ut tellus-->
-                        <#--sollicitudin placerat. <br>-->
-                        <#--<a href="portfolio-project-fullwidth-carousel.html" class="moreLink portfolioSheet">&rarr;-->
-                            <#--read more</a>-->
-                    <#--</p>-->
-                <#--</section>-->
-            <#--</article>-->
-
-        <#--</div>-->
     </div>
 </section>
 

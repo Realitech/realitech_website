@@ -1,4 +1,4 @@
-title=Second Post
+title=Seven Emerging Blockchain Usecases 
 date=2013-08-25
 type=post
 tags=blog

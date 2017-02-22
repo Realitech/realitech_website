@@ -10,7 +10,7 @@
                             data-target=".navbar-ex1-collapse"><span class="sr-only">Toggle navigation</span> <span
                             class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/index.html"><img width="180px" src="/images/realitech_logo.png"
+                    <a class="navbar-brand" href="/index.html"><img width="180px" style="margin-top:-10px;"  src="/images/realitech_logo.png"
                                                                     alt="Realitech Logo"/></a>
                 </div>
                 <div class="collapse navbar-collapse navbar-ex1-collapse" id="scrollTarget">

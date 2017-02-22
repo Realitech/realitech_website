@@ -49,7 +49,7 @@ Enter Uber and your now paying per trip and the transaction is simple and instan
 
 The opportunity for blockchain insurance is to provide the same level of instant and clear transaction. The risk for the insurance industry is that it also opens to market for disruptive **peer-to-peer** incumbents without so much legacy friction.
 
-# Innovate before being Disrupted
+# Innovate Before Being Disrupted
 
 Like other industries before music, video, taxi's and financing insurance is not immune to being disrupted by the right combinations of technologies and new business models.
 
