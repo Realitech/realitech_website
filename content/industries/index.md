@@ -10,6 +10,28 @@ status=published
 
 ## Retail - Omni Channel
 
+## Retail - Omni Channel 
+ Retail has awlays been very competitive and now is even more so with multi-channel, multi access from consumer purchases through to the supply chain and warehousing. Retail Organisations need to implement nimble systems that can react to change whilst ensuring potential sales are not missed when new markets or new sales channels are opened. 
+ 
+While the retail landscape is filled with silver bullet tools Realitech is technology agnostic adopting a best of breed integrated api appraoch that support the evolution and integratoin of 
+
+* often proven legacy systems
+* on premiese and cloud ecommerce 
+* traditional data stores with event driven nosql 
+* social, marketing and chat 
+* machine learning 
+* revenue generating api's to create a collaborative sales network
+
+This can then be used to help define Key Performance Indicators, Management Information (in real-time) and mapping trend analysis to both the consumer base and process interaction within key areas of the Retail operation. 
+ 
+Realitech has worked some of the largest Retail Businesses to help them define: 
+ 
+* Systems Architecture 
+* Adoption of 'Best for Need' Technologies  
+* Using Agile delivery to accelerate technology and systems adoption 
+* Define Business needs and match Technology whether traditional Application or Open Source 
+ 
+To help your organisation deliver a coordinated and OMNI channel access to your customers and enable sales to spread across new and social media Realitech can deliver a proven Api approach to help define your requirements and ensure all key sponsors within the organisation play an active part in delivering the new system.
 
 ## Government
 
