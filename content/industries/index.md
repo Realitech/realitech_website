@@ -10,6 +10,19 @@ status=published
 
 ## Retail - Omni Channel
 
+Retail has awlays been very competitive and now is even more so with multi-channel, multi access from consumer purchases through to the supply chain and warehousing. Retail Organisations need to implement nimble systems that can react to change whilst ensuring potential sales are not missed when new markets or new sales channels are opened.
+
+Digital Service platforms can support Retail organisations through a reduction in cost of operation by helping to adopt a Data Centretic approach to identifying and managing valuable data. This can then be used to help define Key Perforamnce Indicators, Management Information (in realtime) and mapping trend analysis to both the consumer base and process interaction within key areas of the Retail operation.
+
+Realitech has worked some of the largest Retail Businesses to help them define:
+
+* Systems Architecture
+* Data Centric Architecure
+* Adoption of 'Best for Need' Technologies 
+* Using Agile delivery to acclerate technology and systems adoption
+* Define Business needs and match Technology whether traditional Application or Open Source
+
+To help your organisation deliver a co-ordinated and OMNI channel access to your customers and enable sales to spread across new and social media Realitech can deliver a proven approach to help define your requirements and ensure all key sponsors within the organisation play an active part in delivering the new system.
 
 ## Government
 
@@ -36,8 +49,8 @@ Partners and consultants from Realitech have worked a range of government depart
 
 Media is one of the industries that has seen unprecedented rates of change. With the arrival of new media formats, modes of delivery and business models.
 
-Realitech has worked with many of the leading UK and international media companies including Sky Tv, Disney, Liberty media and more. Working on projects for
-* next generation advertising platforms integrating with leading advertising platforms including
+Realitech has worked with many of the leading UK and international media companies including Sky Tv, Disney, Liberty media and more. Working on projects fornext generation advertising platforms integrating with leading advertising platforms including
+
   * Google DFS
   * Google DoubleClick
   * Openx
