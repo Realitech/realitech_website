@@ -6,31 +6,43 @@ status=published
 ~~~~~~
 ## Finance - Banking, FinTech and Insurance
 
-## HealthCare
+Based in in London we are the cross roads of many of the new FinTech developments and innovations. In Relitech we have two bases of customers:
+* **Large Established Customers** have multiple transformation initiatives to provide
+** new services through web, mobile and other platforms
+** internal transformations integrating legacy platforms and stable mainframes with the latest cloud, big data and machine learning
+** tremendous growth of data volumes and analytics have introduced new messaging platforms (kafka, artemis, NSQ ) and new analytics capabilities (spark, hive, drill )
+** adoption of open-source and cloud has been has been rapid and continues with many of the new fintech firms being 100% cloud (aws, docker, kubernates) based. These solutions are designed to be have a cost effective footprint and elastically scale as demand rises.
+
+While the rate of change has been tremendous the backlog of changes is growing even faster. With
+* impending regulatory changes
+* Brexit transformations
+* Growing risks and challenges around Risk management and Security
+* Blockchain's opportunities and business model transformations for payments, insurance, asset management and many more.
+
+Realitech are working with leading providers to focus on simple, security and agile components that can adapt and expand to meet the inevitable new challenges. 
+
 
 ## Retail - Omni Channel
+ Retail has always been very competitive and now is even more so with multi-channel, multi access from consumer purchases through to the supply chain and warehousing. Retail organizations need to implement **nimble systems** that can react to change whilst ensuring potential sales are not missed when new markets or new sales channels are opened.
 
-## Retail - Omni Channel 
- Retail has awlays been very competitive and now is even more so with multi-channel, multi access from consumer purchases through to the supply chain and warehousing. Retail Organisations need to implement nimble systems that can react to change whilst ensuring potential sales are not missed when new markets or new sales channels are opened. 
- 
-While the retail landscape is filled with silver bullet tools Realitech is technology agnostic adopting a best of breed integrated api appraoch that support the evolution and integratoin of 
+While the retail landscape is filled with silver bullet tools Realitech is **technology agnostic** adopting a best of breed integrated api approach that support the evolution and integration of
 
 * often proven legacy systems
-* on premiese and cloud ecommerce 
-* traditional data stores with event driven nosql 
-* social, marketing and chat 
-* machine learning 
-* revenue generating api's to create a collaborative sales network
+* on-premise and cloud ecommerce
+* traditional data stores with event driven nosql
+* social, marketing and **chat**
+* machine learning
+* **revenue generating api's** to create a collaborative sales network
 
-This can then be used to help define Key Performance Indicators, Management Information (in real-time) and mapping trend analysis to both the consumer base and process interaction within key areas of the Retail operation. 
- 
-Realitech has worked some of the largest Retail Businesses to help them define: 
- 
-* Systems Architecture 
-* Adoption of 'Best for Need' Technologies  
-* Using Agile delivery to accelerate technology and systems adoption 
-* Define Business needs and match Technology whether traditional Application or Open Source 
- 
+This can then be used to help define Key Performance Indicators, Management Information (in real-time) and mapping trend analysis to both the consumer base and process interaction within key areas of the Retail operation.
+
+Realitech has worked some of the largest Retail Businesses to help them define:
+
+* Systems Architecture
+* Adoption of **'Best for Need'** Technologies  
+* Using Agile delivery to accelerate technology and systems adoption
+* Define Business needs and match Technology whether traditional Application or Open Source
+
 To help your organisation deliver a coordinated and OMNI channel access to your customers and enable sales to spread across new and social media Realitech can deliver a proven Api approach to help define your requirements and ensure all key sponsors within the organisation play an active part in delivering the new system.
 
 ## Government
